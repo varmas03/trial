@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to right,rgb(244, 244, 131) 5%,lightyellow 95%);
+}
+p {
+    color: yellow;
+    word-spacing: 2cm;
+    font-family: helvetica;
+    font-size: 40px;
+    text-orientation:upright;
+}
+.element1 {
+    position: absolute;
+    left: 80%;
+    max-width: 10vw;
+}
